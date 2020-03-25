@@ -1,6 +1,6 @@
-# movies_land
+# News Square
 
-A new Flutter application.
+A news Flutter application.
 
 ## Getting Started
 
