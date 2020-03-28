@@ -4,7 +4,7 @@ import 'package:url_launcher/url_launcher.dart';
 
 class Constant{
   static const String baseURL="http://newsapi.org/v2/everything?q=bitcoin";
-  static const String newsURL="&from=2020-02-25&sortBy=publishedAt&apiKey=ae04811772b64bc3ba49d6359f022ab7";
+  static const String newsURL="&from=2020-02-30&sortBy=publishedAt&apiKey=ae04811772b64bc3ba49d6359f022ab7";
   static String getImageURL(String url)
   {
     if(url!=null)
